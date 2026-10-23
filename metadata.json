@@ -1,0 +1,8 @@
+{
+  "name": "Remix AeroStream Parallel Weather Pipeline",
+  "description": "High-throughput parallel weather data processing pipeline for real-time multi-satellite constellation monitoring, 4D-Var data assimilation, and planetary climate modeling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
